@@ -19,5 +19,5 @@
 2. Rename the "sample.htaccess.txt" file to ".htaccess" file
 3. Open your browser and enter the url https://yourdomain.com/install.php to install
 4. Setup it as instructions and you're done.
-5. 
+
 ![capture](https://user-images.githubusercontent.com/83116688/155357834-423ce233-58e5-48d3-abc9-e4caa0c05d92.png)
