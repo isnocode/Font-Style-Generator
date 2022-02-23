@@ -1,5 +1,5 @@
 # Font-Style-Generator
-**Features of Font Style Generator:
+** Features of Font Style Generator:
 - Indexable web pages
 - SEO friendly urls
 - Easy to add more character sets
@@ -8,11 +8,13 @@
 - Fully XHTML 1.0 transitional
 - Modern flat design
 - Mobile responsive
-**Requirements:
+
+** Requirements:
 - PHP 5.4+ or higher
 - Apache ".htaccess" (mod_rewrite)
 - "file_get_contents" & "file_put_contents" enabled
-**How to use:
+
+** How to use:
 1. Download and upload the source code to your hosting
 2. Rename the "sample.htaccess.txt" file to ".htaccess" file
 3. Open your browser and enter the url https://yourdomain.com/install.php to install
