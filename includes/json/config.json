@@ -1,0 +1,9 @@
+{
+   "name":          "Font Style Generator",
+   "email":         "contact@example.com",
+   "facebook-url":  "https:\/\/www.facebook.com\/example",
+   "twitter-url":   "https:\/\/twitter.com\/example",
+   "pinterest-url": "https:\/\/www.pinterest.co.uk\/example",
+   "google-url":    "https:\/\/plus.google.com\/u\/0\/b\/example",
+   "about":         "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+}
