@@ -77,7 +77,7 @@ if ( isset($_REQUEST['install']) ) {
          <div>
             <div class="row container">
                <div class="col12">
-                  <button id="install-button" class="blue-btn">install Font Style Changer</button>
+                  <button id="install-button" class="blue-btn">install Font Style Generator</button>
                </div>
                <div id="install-messages" class="col12"></div>
             </div>
